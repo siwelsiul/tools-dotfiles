@@ -1,4 +1,4 @@
-max-items 100
+browser "vimb %u &>/dev/null &"
 
 bind-key k up
 bind-key j down
