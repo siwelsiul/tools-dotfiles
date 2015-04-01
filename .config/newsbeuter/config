@@ -1,0 +1,4 @@
+max-items 100
+
+bind-key k up
+bind-key j down
