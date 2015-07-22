@@ -1,0 +1,1 @@
+nnoremap V :shellcmd! mpv --loop=inf "$VIMB_URI" <CR>
